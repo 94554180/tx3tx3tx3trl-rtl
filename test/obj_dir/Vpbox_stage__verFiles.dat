@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "-Wall -GDATA_WIDTH=8 -GMAGIC_OFFSET=5 -cc pbox_stage.sv"
+S   7484256 33829969  1640144567   467381473  1581264640           0 "/usr/bin/verilator_bin"
+T      5302 11535734  1641756410   408921759  1641756410   408921759 "obj_dir/Vpbox_stage.cpp"
+T      2227 11535733  1641756410   408921759  1641756410   408921759 "obj_dir/Vpbox_stage.h"
+T      1489 11535736  1641756410   408921759  1641756410   408921759 "obj_dir/Vpbox_stage.mk"
+T       564 11535731  1641756410   408921759  1641756410   408921759 "obj_dir/Vpbox_stage__Syms.cpp"
+T       816 11535732  1641756410   408921759  1641756410   408921759 "obj_dir/Vpbox_stage__Syms.h"
+T       249 11535739  1641756410   408921759  1641756410   408921759 "obj_dir/Vpbox_stage__ver.d"
+T         0        0  1641756410   408921759  1641756410   408921759 "obj_dir/Vpbox_stage__verFiles.dat"
+T      1256 11535735  1641756410   408921759  1641756410   408921759 "obj_dir/Vpbox_stage_classes.mk"
+S       301  9573332  1641756408   900958197  1641756408   900958197 "pbox_stage.sv"

@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "-Wall -GDATA_WIDTH=8 -cc sbox_stage.sv"
+S   7484256 33829969  1640144567   467381473  1581264640           0 "/usr/bin/verilator_bin"
+T      9249 11535726  1641756364   186040031  1641756364   186040031 "obj_dir/Vsbox_stage.cpp"
+T      2417 11535725  1641756364   186040031  1641756364   186040031 "obj_dir/Vsbox_stage.h"
+T      1489 11535728  1641756364   186040031  1641756364   186040031 "obj_dir/Vsbox_stage.mk"
+T       564 11535723  1641756364   186040031  1641756364   186040031 "obj_dir/Vsbox_stage__Syms.cpp"
+T       816 11535724  1641756364   186040031  1641756364   186040031 "obj_dir/Vsbox_stage__Syms.h"
+T       249 11535729  1641756364   186040031  1641756364   186040031 "obj_dir/Vsbox_stage__ver.d"
+T         0        0  1641756364   186040031  1641756364   186040031 "obj_dir/Vsbox_stage__verFiles.dat"
+T      1256 11535727  1641756364   186040031  1641756364   186040031 "obj_dir/Vsbox_stage_classes.mk"
+S      2136  9572788  1641756345   306497595  1641756345   306497595 "sbox_stage.sv"
