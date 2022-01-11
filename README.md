@@ -1,5 +1,5 @@
 # tx3tx3tx3trl-rtl
-Candidate hash from "Non-Crypto Hardware Hash Functions for High Performance Networking ASICs". Impressive quality, low area, pretty fast. 
+Candidate hash from "Non-Crypto Hardware Hash Functions for High Performance Networking ASICs". Good avalanche properties, high uniformity, low area, fast. 
 
 Original paper can be found below:
 * https://ieeexplore.ieee.org/document/6062728
