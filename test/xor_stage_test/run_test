@@ -1,0 +1,4 @@
+MODULE_NAME="xor_stage"
+
+cd obj_dir
+./Vxor_stage

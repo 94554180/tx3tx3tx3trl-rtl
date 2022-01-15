@@ -1,1 +1,0 @@
-obj_dir/Vsbox_stage.cpp obj_dir/Vsbox_stage.h obj_dir/Vsbox_stage.mk obj_dir/Vsbox_stage__Syms.cpp obj_dir/Vsbox_stage__Syms.h obj_dir/Vsbox_stage__ver.d obj_dir/Vsbox_stage_classes.mk  : /usr/bin/verilator_bin /usr/bin/verilator_bin sbox_stage.sv 

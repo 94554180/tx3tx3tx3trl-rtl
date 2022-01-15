@@ -1,0 +1,5 @@
+MODULE_NAME="xor_stage"
+ADDITIONAL_VERILATOR_PARAMS="--trace -GDATA_WIDTH=8"
+
+verilator -Wall ${ADDITIONAL_VERILATOR_PARAMS} -cc ../../rtl/${MODULE_NAME}.sv --exe ${MODULE_NAME}_test.cc
+make -C obj_dir -f V${MODULE_NAME}.mk V${MODULE_NAME}

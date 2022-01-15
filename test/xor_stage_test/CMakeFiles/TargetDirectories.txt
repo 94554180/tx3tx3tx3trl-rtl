@@ -1,3 +1,0 @@
-/home/user/Documents/Projects/tx3tx3tx3trl-rtl/test/xor_stage_test/CMakeFiles/rebuild_cache.dir
-/home/user/Documents/Projects/tx3tx3tx3trl-rtl/test/xor_stage_test/CMakeFiles/edit_cache.dir
-/home/user/Documents/Projects/tx3tx3tx3trl-rtl/test/xor_stage_test/CMakeFiles/xor_stage_test.dir

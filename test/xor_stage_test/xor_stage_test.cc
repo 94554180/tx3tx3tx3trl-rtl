@@ -13,19 +13,14 @@ int main(int argc, char **argv) {
   //
   top->trace(trace, 99);
   trace->open("xor_stage_test_trace.vcd");
-  
-  /*
-  while(!Verilated::gotFinish()) {
-          //top->i_clk = 1;
-          //top->eval();
-          //top->i_clk = 0;
-          top->eval();
-  } exit(EXIT_SUCCESS);
-  */
 
+  top->eval();
+
+  /*
   for (int i = 0; i < 10; i++) {
     top->eval();
   }
+  */
 
 	trace->close();
 	exit(0);
