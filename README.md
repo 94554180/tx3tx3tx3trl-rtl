@@ -1,5 +1,5 @@
 # tx3tx3tx3trl-rtl
-Synthesizable SystemVerilog implmentation of candidate hash function from "Non-Crypto Hardware Hash Functions for High Performance Networking ASICs". Hash functions using the construction detailed in the paper have: good avalanche properties, high uniformity, low area, low latency, and extensible construction.
+Synthesizable SystemVerilog implmentation of candidate hash function from "Non-Crypto Hardware Hash Functions for High Performance Networking ASICs".
 
 Original paper:
 * https://ieeexplore.ieee.org/document/6062728
